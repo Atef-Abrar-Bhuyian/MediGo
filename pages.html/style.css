@@ -117,7 +117,7 @@ body {
     width: 30%;
     height: 2px;
     background: #295c6a;
-    position: absolute;
+    position: relative;
     bottom: -4px;
     left: 20px;
 }
